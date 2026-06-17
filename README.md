@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend mobile app</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhaysorithea-cloud" alt="chhaysorithea-cloud" /></a> </p>
+<h1></h1>
 
 - 🌱 I’m currently learning **flutter**
 

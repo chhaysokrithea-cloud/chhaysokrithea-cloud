@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhay sothearithea</h1>
-<h3 align="center">A passionate frontend mobile app</h3>
+<h3 align="center">A Passionate Frontend Mobile-App</h3>
 
 
 <h1></h1>

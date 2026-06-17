@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm sokrithea chhay</h1>
+<h1 align="center">Hi 👋, I'm Chhay sothearithea</h1>
 <h3 align="center">A passionate frontend mobile app</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhaysorithea-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="chhaysorithea-cloud" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhaysorithea-cloud" alt="chhaysorithea-cloud" /></a> </p>
 
